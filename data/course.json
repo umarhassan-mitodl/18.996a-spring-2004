@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Logic"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "legacy_uid": "bcd2c2df-5ae9-f445-5209-930c3bf07899",
+  "instructors": {
+    "content": [
+      "eb4a6b48-1c9d-a7a5-8a4d-fc43d82bd3fd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6d896c14-38ec-b2a9-fee6-0e7e0c30e34a",
+    "website": "18-996a-simplicity-theory-spring-2004"
+  },
+  "course_title": "Simplicity Theory",
+  "course_description": "This is an advanced topics course in model theory whose main theme is simple theories. We treat simple theories in the framework of compact abstract theories, which is more general than that of first order theories. We cover the basic properties of independence (i.e., non-dividing) in simple theories, the characterization of simple theories by the existence of a notion of independence, and hyperimaginary canonical bases.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.996A",
+  "course_image_thumbnail": {
+    "content": "61c011e2-bc2b-79c2-dd07-70e322f8b562",
+    "website": "18-996a-simplicity-theory-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "66b0a1c8-b9b4-473f-8a14-2b0ff392d5c6",
+  "site_short_id": "18.996a-spring-2004",
+  "site_url_path": "courses/18-996a-simplicity-theory-spring-2004",
+  "title": "Course Metadata"
+}
